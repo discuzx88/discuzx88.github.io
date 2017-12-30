@@ -21,7 +21,7 @@ body h1,h2,h3,h4,h5,h6,p{
     height: 100%;
     width: 0;
     position: fixed;
-    z-index: 999999;
+    z-index: 99999999;
     top: 0;
     right: 0;
     background-color: #176A92;
