@@ -63,7 +63,11 @@ body h1,h2,h3,h4,h5,h6,p{
 	color: black;
 	font-size: 18px;
 	text-align: right;
-	float: right;
+	
+	position: fixed;
+   top: 0;
+    right: 0;
+
 }
 
 .btn-open-nav:hover,.btn-open-nav:active,.btn-open-nav:focus{
