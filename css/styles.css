@@ -63,7 +63,7 @@ body h1,h2,h3,h4,h5,h6,p{
 	color: black;
 	font-size: 18px;
 	text-align: right;
-	 z-index: 99999999;
+	 z-index: 99999998;
 	position: fixed;
    top: 0;
     right: 0;
