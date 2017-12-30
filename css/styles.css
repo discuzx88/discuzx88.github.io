@@ -61,6 +61,7 @@ body h1,h2,h3,h4,h5,h6,p{
 	border:1px solid #6F6F6F;
 	background-image: url("https://4.bp.blogspot.com/-cfuRpACFWWw/Wke9_GEtePI/AAAAAAAAA-E/NuwaHuh9Z1sHmuTu-xPG0-tq3tkbgHsAACLcBGAs/s1600/settings.png");
 	background-size: 7px 7px;
+	background-repeat: no-repeat;
 	color: black;
 	font-size: 18px;
 	text-align: right;
