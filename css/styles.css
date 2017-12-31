@@ -56,11 +56,11 @@ body h1,h2,h3,h4,h5,h6,p{
 
 .btn-open-nav{
 	display: inline-block;
-	padding: 15px 15px;
+	padding: 30px 30px;
 	border-radius: 0px;
 	border:0px solid #6F6F6F;
 	background-image: url("https://2.bp.blogspot.com/-k-KiYN3wQsI/WkfkvfQmZ9I/AAAAAAAAA-o/Vmx1hoCxwikXyLjEtLpCnjj1ocOpz1begCLcBGAs/s1600/settings.png");
-	background-size: 30px 30px;
+	background-size: 60px 60px;
 	background-repeat: no-repeat;
 	color: black;
 	font-size: 18px;
