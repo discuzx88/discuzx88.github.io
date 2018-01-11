@@ -90,7 +90,7 @@ body h1,h2,h3,h4,h5,h6,p{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-@media screen and (max-width: 650px) {
+@media screen and (min-width: 650px) {
   .btn-open-nav {padding: 30px 30px;
 background-size: 60px 60px;}
 }
