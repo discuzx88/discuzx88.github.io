@@ -82,6 +82,18 @@ body h1,h2,h3,h4,h5,h6,p{
 .btn-open-nav:hover,.btn-open-nav:active,.btn-open-nav:focus{
 	text-decoration: none;
 	color: black;
+	-webkit-animation-name: rotate; 
+    -webkit-animation-duration: 2s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-name: rotate; 
+    -moz-animation-duration: 2s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    animation-name: rotate; 
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 }
 @media screen and (max-height: 450px) {
