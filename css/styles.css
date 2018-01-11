@@ -56,11 +56,11 @@ body h1,h2,h3,h4,h5,h6,p{
 
 .btn-open-nav{
 	display: inline-block;
-	padding: 15px 15px;
+	padding: 10px 10px;
 	border-radius: 0px;
 	border:0px solid #6F6F6F;
 	background-image: url("https://2.bp.blogspot.com/-k-KiYN3wQsI/WkfkvfQmZ9I/AAAAAAAAA-o/Vmx1hoCxwikXyLjEtLpCnjj1ocOpz1begCLcBGAs/s1600/settings.png");
-	background-size: 30px 30px;
+	background-size: 20px 20px;
 	background-repeat: no-repeat;
 	color: black;
 	font-size: 18px;
@@ -73,8 +73,7 @@ body h1,h2,h3,h4,h5,h6,p{
      -moz-transition: all 2s ease;
       -ms-transition: all 2s ease;
           transition: all 2s ease;
-  
-  	animation: beat 0.9s infinite alternate;
+  	animation: beat 3s infinite alternate;
 }
 @keyframes beat{
 	to { transform: scale(1.5); }
@@ -85,10 +84,13 @@ body h1,h2,h3,h4,h5,h6,p{
 	color: black;
  padding: 30px 30px;
 	background-size: 60px 60px;
-	animation: beat 10s infinite alternate;
 }
 }
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+}
+@media screen and (max-height: 650px) {
+  .btn-open-nav {padding: 30px 30px;
+background-size: 60px 60px;}
 }
