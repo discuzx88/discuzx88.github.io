@@ -82,7 +82,7 @@ body h1,h2,h3,h4,h5,h6,p{
 .btn-open-nav:hover,.btn-open-nav:active,.btn-open-nav:focus{
 	text-decoration: none;
 	color: black;
-      -webkit-animation: rotation 2s infinite linear;
+       animation: rotation 2s infinite linear;
 }
 
 @media screen and (max-height: 450px) {
