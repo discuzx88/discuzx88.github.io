@@ -59,7 +59,7 @@ body h1,h2,h3,h4,h5,h6,p{
 	padding: 11px 11px;
 	border-radius: 0px;
 	border:0px solid #6F6F6F;
-	background-image: url("https://2.bp.blogspot.com/-k-KiYN3wQsI/WkfkvfQmZ9I/AAAAAAAAA-o/Vmx1hoCxwikXyLjEtLpCnjj1ocOpz1begCLcBGAs/s1600/settings.png");
+	background-image: url("https://2.bp.blogspot.com/-ysn1BOq3ERs/WldZw_7BkzI/AAAAAAAABBM/U_wjZXfo0mcbpfBPIInaNB1IvGrbAYPcQCLcBGAs/s1600/icon.png");
 	background-size: 22px 22px;
 	background-repeat: no-repeat;
 	color: black;
@@ -82,7 +82,6 @@ body h1,h2,h3,h4,h5,h6,p{
 .btn-open-nav:hover,.btn-open-nav:active,.btn-open-nav:focus{
 	text-decoration: none;
 	color: black;
-       animation: rotation 2s infinite linear;
 }
 
 @media screen and (max-height: 450px) {
