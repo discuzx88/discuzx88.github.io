@@ -74,13 +74,11 @@ body h1,h2,h3,h4,h5,h6,p{
       -ms-transition: all 2s ease;
           transition: all 2s ease;
   
-    -webkit-animation:spin 12s linear infinite;
-    -moz-animation:spin 12s linear infinite;
-    animation:spin 12s linear infinite;
+  	animation: beat 1s infinite alternate;
 }
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+@keyframes beat{
+	to { transform: scale(1.1); }
+}
 
 .btn-open-nav:hover,.btn-open-nav:active,.btn-open-nav:focus{
 	text-decoration: none;
