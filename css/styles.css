@@ -114,3 +114,9 @@ margin:0;
 border:none;
 padding:0;
  }
+/* 顯示隱藏 */
+div.panel
+{
+border:solid 1px #666;
+display:none;
+}
