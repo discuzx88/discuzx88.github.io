@@ -95,7 +95,7 @@ background-size: 50px 50px;}
 }
 /* 連結按鈕 */
 .btn_click_copy{
-border:1px solid grey;
+border:5px solid grey;
 padding:5px 20px;
 background:linear-gradient(#ffa1b4, rgb(109, 109, 197));
 color:white;
