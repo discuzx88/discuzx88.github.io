@@ -96,7 +96,7 @@ background-size: 50px 50px;}
 /* 連結按鈕 */
 .btn_click_copy{
 border:1px solid grey;
-padding:18px 35px;
+padding:18px 18px;
 background:linear-gradient(#FFCAFF, #A547E3);
 color:white!important;
 font-size: 20px!important;	
