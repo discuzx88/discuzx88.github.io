@@ -94,17 +94,9 @@ body h1,h2,h3,h4,h5,h6,p{
 background-size: 50px 50px;}
 }
 /* 連結按鈕 */
-.btn_click_copy{
-border:1px solid grey;
-padding:15px 30px;
-background:linear-gradient(#FFA1C5, #D45DEE);
-color:#F8F8F6 !important;
-border-radius:10px;
-text-decoration: none !important;
-font-size: 18px;
-font-weight: bold;
+.btn_click_copy1{
  }
- .textarea{
+ .textarea1{
 position:fixed;
 opacity:0;
 z-index:-1000;
@@ -114,6 +106,7 @@ margin:0;
 border:none;
 padding:0;
  }
+
 /* 顯示隱藏 */
 div.panel
 {
