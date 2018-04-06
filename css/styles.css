@@ -95,6 +95,12 @@ background-size: 50px 50px;}
 }
 /* 連結按鈕 */
 .btn_click_copy1{
+border:1px solid grey;
+padding:5px 20px;
+background:linear-gradient(#ffa1b4, rgb(109, 109, 197));
+color:white;
+border-radius:3px;
+text-decoration: none;	
  }
  .textarea1{
 position:fixed;
