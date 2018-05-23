@@ -124,7 +124,7 @@ outline: 0;
 font-size: 100%;
 vertical-align: baseline;
 background: transparent;
-color:$linkcolor !important;
+color:#424347 !important; /* This is refer to linkcolor */
 text-decoration: underline!important;
 }
 
