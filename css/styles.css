@@ -115,6 +115,18 @@ border:none;
 padding:0;
  }
 
+/* 連結按鈕-table */
+.discountlink td a {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+color:#275EEF !important; /* This is refer to .post-body a */
+text-decoration: underline!important;
+}
 
 /* 顯示隱藏 */
 div.panel
