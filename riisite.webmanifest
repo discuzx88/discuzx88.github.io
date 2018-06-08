@@ -3,12 +3,12 @@
     "short_name": "\u4fe1\u7db2\u7d61",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "https://1.bp.blogspot.com/-nnS7TsmXzfo/WxpsyFg3FeI/AAAAAAAABfs/-q3d8oAsm3olcNUUQbmvGABIbDumOGHmwCLcBGAs/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-384x384.png",
+            "src": "https://4.bp.blogspot.com/-PrMhLflCPfg/WxpsyBxr0LI/AAAAAAAABfo/jLPAqhMY2HUeLmO1LLeRG13xXCIzZedLQCLcBGAs/s320/android-chrome-384x384.pngg",
             "sizes": "384x384",
             "type": "image/png"
         }
